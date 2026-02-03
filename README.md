@@ -5,7 +5,7 @@
 🌸 Flowrio — Flower Shop Website
 
 Welcome to Flowrio — a beautiful, modern flower shop website built to showcase floral products and provide an elegant user experience. 
-Visit the live site here: https://flowriio.vercel.app/
+Visit the live site here: https://flowrio.vercel.app/
 
 # Table of Contents
 
